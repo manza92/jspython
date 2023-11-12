@@ -1,0 +1,58 @@
+/* Set the background color of the body to light gray */
+body {
+    background-color: #f2f2f2;
+}
+
+/* Center the content of the page */
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+/* Style the header */
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+}
+
+/* Style the navigation menu */
+nav {
+    background-color: #f2f2f2;
+    padding: 10px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+nav a {
+    color: #333;
+    text-decoration: none;
+}
+
+nav a:hover {
+    color: #fff;
+    background-color: #333;
+}
+
+/* Style the main content */
+main {
+    background-color: #fff;
+    padding: 20px;
+}
+
+/* Style the footer */
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
